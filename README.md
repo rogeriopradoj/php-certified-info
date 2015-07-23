@@ -15,4 +15,4 @@ Via [Zend Certified Engineer Directory](http://www.zend.com/en/services/certific
 
 Scrapping was done with [iMacros for Firefox](https://addons.mozilla.org/firefox/addon/imacros-for-firefox/).
 
-The scripts source are available in [macros/](), and datasources in [datasources/]()
+The scripts source are available in [macros/](macros/), and datasources in [datasources/](datasources/)
